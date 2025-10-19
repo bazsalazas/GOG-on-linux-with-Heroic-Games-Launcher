@@ -1,6 +1,6 @@
 # The Settlers 2: Gold Edition
 
-This guideline describes how to set up Heroic Games Launcher on Linux to play The Settlers 2: Gold Edition in DOS box.
+This guideline describes how to set up Heroic Games Launcher on Linux to play The Settlers 2: Gold Edition in DOS box available on [GOG.com](https://www.gog.com/en/).
 Tested on [Arch Linux](https://archlinux.org/) using [Omarchy](https://omarchy.org/) with [Hyprland](https://hypr.land/).
 
 Version: 1.5.1
@@ -74,9 +74,10 @@ After this point the game should be ready to run, with a beautiful MIDI music (I
 
 ## Tested on
 
-OS: Arch Linux
-Kernel: x86_64 Linux 6.17.1-arch1-1
-Dirtro: Omarchy v3.0.2
-WM: Hyprland 0.51.1
-Heroic Games Launcher: 2.18.1
-Timidity++: 2.15.0-12
+* OS: Arch Linux
+* Kernel: x86_64 Linux 6.17.1-arch1-1
+* Dirtro: Omarchy v3.0.2
+* WM: Hyprland 0.51.1
+* Heroic Games Launcher: 2.18.1
+* Timidity++: 2.15.0-12
+
