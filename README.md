@@ -1,5 +1,5 @@
 # GOG-on-linux-with-Heroic-Games-Launcher
-Collection of my experience how to set up GOG games on Linux using Heroic Games Launcher
+Collection of my experience how to set up [GOG](https://www.gog.com/en/) games on Linux using [Heroic Games Launcher](https://heroicgameslauncher.com/).
 
 ## The Settlers 2: Gold Edition
 
