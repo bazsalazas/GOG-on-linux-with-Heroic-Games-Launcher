@@ -5,3 +5,6 @@ Collection of my experience how to set up [GOG](https://www.gog.com/en/) games o
 
 The following guideline describes how to set up [The Settlers 2: Gold Edition using Heroic Games Launcher](https://github.com/bazsalazas/GOG-on-linux-with-Heroic-Games-Launcher/blob/main/The%20Settlers%202%3A%20Gold%20Edition/The-Settles-2-Gold-Edition.md).
 
+## Pharaoh + Cleopatra Gold Edition
+
+The following guideline describes how to set up [Pharaoh + Cleopatra Gold Edition using Heroic Games Launcher](https://github.com/bazsalazas/GOG-on-linux-with-Heroic-Games-Launcher/blob/main/Pharaoh%20%2B%20Cleopatra%20Gold%20Edition/Pharaoh-Gold.md).
